@@ -1,4 +1,4 @@
-# ELEC 299 (Mechatronics) Final Competition
+# ELEC299 (Mechatronics) Final Competition
 
 Arduino code for the final project of a mechatronics project
 
