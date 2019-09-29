@@ -1,6 +1,7 @@
-# ELEC299 (Mechatronics) Final Competition
+# Mechatronics Final Competition
 
-Arduino code for the final project of a mechatronics project.
+Arduino code for the final project of a mechatronics course.
+Queen's University (ELEC299).
 
 ## Competition Description
 
