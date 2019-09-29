@@ -1,6 +1,6 @@
 # ELEC299 (Mechatronics) Final Competition
 
-Arduino code for the final project of a mechatronics project
+Arduino code for the final project of a mechatronics project.
 
 ## Competition Description
 
